@@ -1,0 +1,15 @@
+E:\Estudio de programación\Platzi\C#\Etapa1\bin\Debug\net6.0\Etapa1.exe
+E:\Estudio de programación\Platzi\C#\Etapa1\bin\Debug\net6.0\Etapa1.deps.json
+E:\Estudio de programación\Platzi\C#\Etapa1\bin\Debug\net6.0\Etapa1.runtimeconfig.json
+E:\Estudio de programación\Platzi\C#\Etapa1\bin\Debug\net6.0\Etapa1.dll
+E:\Estudio de programación\Platzi\C#\Etapa1\bin\Debug\net6.0\Etapa1.pdb
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.csproj.AssemblyReference.cache
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.AssemblyInfoInputs.cache
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.AssemblyInfo.cs
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.csproj.CoreCompileInputs.cache
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.dll
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\refint\Etapa1.dll
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.pdb
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\Etapa1.genruntimeconfig.cache
+E:\Estudio de programación\Platzi\C#\Etapa1\obj\Debug\net6.0\ref\Etapa1.dll
